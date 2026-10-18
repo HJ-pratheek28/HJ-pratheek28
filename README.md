@@ -1,36 +1,37 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Build. Ship. Evolve. — AI, software engineering, founder mindset" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Smart ideas. Sharp execution. AI/ML, software, product thinking." width="100%" />
 
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com/demo/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=C8FF6B&center=true&vCenter=true&width=650&lines=AI%2FML+student+%7C+software+builder;Learning+by+building+real+things;Curious+about+systems%2C+products%2C+and+start-ups" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=850&color=C8FF6B&center=true&vCenter=true&width=720&lines=AI%2FML+student.+Builder+by+instinct.;I+like+hard+problems+and+clean+solutions.;Curious+enough+to+explore.+Stubborn+enough+to+ship.;Currently+turning+ideas+into+working+software." alt="Animated introduction" />
 </a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-HJ--pratheek28-111315?style=flat-square&logo=github&logoColor=F4F5F2)](https://github.com/HJ-pratheek28)
-[![Focus](https://img.shields.io/badge/FOCUS-AI%20%2F%20SOFTWARE-C8FF6B?style=flat-square&labelColor=111315)](https://github.com/HJ-pratheek28?tab=repositories)
+<a href="https://github.com/HJ-pratheek28?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-MY%20BUILDS-C8FF6B?style=for-the-badge&labelColor=111513" alt="Explore my builds" /></a>
+&nbsp;
+<a href="https://github.com/HJ-pratheek28"><img src="https://img.shields.io/badge/OPEN-SOURCE%20MINDSET-222825?style=for-the-badge&logo=github&logoColor=F4F6F1" alt="Open source mindset" /></a>
 
 </div>
 
 ---
 
-## About
+## The short version
 
-I'm **Pratheek H J**, a CSE student specialising in AI & ML at PES University, Bengaluru.
+I'm **Pratheek H J** — a CSE student specialising in AI & ML at PES University, Bengaluru.
 
-I’m interested in the space where **AI, software engineering, and products** meet. My goal is to become the kind of engineer who can understand a problem deeply, build the system behind the solution, and eventually turn useful ideas into real products.
+I’m drawn to the overlap between **intelligent systems, thoughtful engineering, and products people actually want to use.** I like understanding how things work, pulling apart difficult problems, and turning ideas into something real.
 
-- **Building:** practical software and AI-driven experiments
-- **Learning:** algorithms, core CS, machine learning, and app development
-- **Interested in:** developer tools, privacy-first products, intelligent systems, and entrepreneurship
-- **Approach:** understand the fundamentals → build → test → improve → ship
+Not here to collect buzzwords. Here to build the skill to build things that matter.
 
-I’m still early in the journey. This profile is a record of the work, not a claim that I’ve mastered it all.
+- **Exploring:** AI/ML, software engineering, algorithms, and app development
+- **Building:** practical projects and early experiments
+- **Thinking about:** developer tools, privacy-first products, and entrepreneurship
+- **Long game:** become an excellent engineer, then use that ability to build ambitious products
 
-## Current toolkit
+## The toolkit
 
 <div align="center">
 
@@ -38,41 +39,56 @@ I’m still early in the journey. This profile is a record of the work, not a cl
 
 </div>
 
-I’m strengthening the fundamentals before adding tools just for the sake of a longer tech stack.
+I care more about understanding a tool deeply than listing fifty tools I barely know.
 
-## Selected work
+## Things I've put into motion
 
-### [Aurora — Private Search](https://github.com/HJ-pratheek28/Aurora----The-Private-search-X)
-Exploring a more privacy-conscious search experience. See the repository for the current implementation and project details.
+<details open>
+<summary><strong>01 / Aurora — Privacy-first search exploration</strong></summary>
 
-> More projects will be featured here as their READMEs clearly explain the problem, architecture, setup, and what was learned.
+A project exploring a more privacy-conscious search experience. It’s early-stage, and I’m treating it as a chance to think clearly about the problem, architecture, and what a genuinely useful first version should do.
 
-## What I’m working toward
+**[Explore Aurora →](https://github.com/HJ-pratheek28/Aurora----The-Private-search-X)**
+</details>
 
-- Strong problem-solving and computer science fundamentals
-- Building and evaluating useful AI/ML systems
-- Shipping reliable software—not just notebooks and demos
-- Learning product thinking by building in public
+<details>
+<summary><strong>02 / The next build</strong></summary>
 
-## GitHub activity
+I’m working toward projects that go beyond a polished demo: a clear user problem, a sensible technical design, honest evaluation, and documentation that lets someone else run the thing.
+
+This section will earn its next entry when there’s real work to show.
+</details>
+
+## How I like to work
+
+| Principle | What it means |
+|:--|:--|
+| **Substance over theatre** | Working software beats impressive-sounding claims. |
+| **Fundamentals first** | Understand the system before reaching for another framework. |
+| **Ship, then sharpen** | Get a useful version working; improve it with evidence. |
+| **Stay curious** | The best ideas often come from connecting different fields. |
+
+## The signal, not the noise
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HJ-pratheek28&show_icons=true&hide_border=true&bg_color=0B0D0E&title_color=C8FF6B&text_color=E6E8E5&icon_color=C8FF6B&rank_icon=github" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJ-pratheek28&layout=compact&hide_border=true&bg_color=0B0D0E&title_color=C8FF6B&text_color=E6E8E5" height="165" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=HJ-pratheek28&show_icons=true&hide_border=true&bg_color=0A0D0C&title_color=C8FF6B&text_color=E6EAE5&icon_color=C8FF6B&rank_icon=github" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJ-pratheek28&layout=compact&hide_border=true&bg_color=0A0D0C&title_color=C8FF6B&text_color=E6EAE5" height="165" alt="Most used languages" />
 
 </div>
 
 <div align="center">
 
-**BUILD. SHIP. LEARN. REPEAT.**
+### Good taste. Strong fundamentals. Useful things.
 
-<sub>Less noise. More substance. Better systems.</sub>
+*Build quietly. Let the work introduce you.*
+
+<br/>
+
+[**See what I'm building →**](https://github.com/HJ-pratheek28?tab=repositories)
 
 </div>
 
 ---
 
-<div align="center">
-  <sub>Open to thoughtful collaboration, learning, and building useful things.</sub>
-</div>
+<sub>Currently learning in public. Always interested in thoughtful builders, challenging problems, and ideas worth making real.</sub>
