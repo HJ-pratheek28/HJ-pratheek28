@@ -68,6 +68,18 @@ This section will earn its next entry when there’s real work to show.
 | **Ship, then sharpen** | Get a useful version working; improve it with evidence. |
 | **Stay curious** | The best ideas often come from connecting different fields. |
 
+## Consistency, visualized
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HJ-pratheek28/HJ-pratheek28/output/github-snake-dark.svg" alt="Animated GitHub contribution graph" width="100%" />
+
+</div>
+
+*The animation is published automatically by GitHub Actions after the workflow runs successfully.*
+
+---
+
 ## The signal, not the noise
 
 <div align="center">
