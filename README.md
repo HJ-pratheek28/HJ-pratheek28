@@ -60,14 +60,6 @@ Developing problem-solving skills through algorithms and core computing concepts
 Interested in privacy-conscious software, developer tools, and AI-enabled applications—especially where a clear user need meets sound technical execution.
 </details>
 
-## Selected work
-
-### Aurora — Privacy-first search exploration
-
-An early-stage exploration of a more privacy-conscious search experience. The repository documents the current direction and intended next steps; it should be treated as an evolving project rather than a production-ready search platform.
-
-[**Review the repository →**](https://github.com/HJ-pratheek28/Aurora----The-Private-search-X)
-
 ## Engineering approach
 
 <div align="center">
