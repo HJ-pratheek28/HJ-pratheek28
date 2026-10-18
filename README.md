@@ -26,19 +26,60 @@ I value rigorous problem-solving, clear technical communication, maintainable co
 
 ## Technical toolkit
 
+My toolkit is organized around the areas I want to build depth in: **AI/ML, software engineering, application development, and quantitative computing**. The categories distinguish foundational tools from technologies I am actively exploring.
+
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="33%"><strong>Languages</strong><br/><br/><img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" alt="Python and C++"/></td>
-    <td align="center" width="33%"><strong>Developer workflow</strong><br/><br/><img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub"/></td>
-    <td align="center" width="33%"><strong>Platforms & apps</strong><br/><br/><img src="https://skillicons.dev/icons?i=linux,flutter&theme=dark" alt="Linux and Flutter"/></td>
+    <td align="center" valign="top" width="50%">
+      <h3>01 · Programming</h3>
+      <img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark" alt="Python, C++, and C" />
+      <br/><sub>Programming fundamentals, algorithms, and problem-solving</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>02 · Data & Machine Learning</h3>
+      <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch&theme=dark" alt="NumPy, pandas, scikit-learn, and PyTorch" />
+      <br/><sub>Data analysis, classical ML, and deep learning</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>03 · AI Engineering</h3>
+      <img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark" alt="Python, FastAPI, and Docker" />
+      <br/><sub>Model serving, APIs, LLM applications, and deployment</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>04 · Apps & Backend</h3>
+      <img src="https://skillicons.dev/icons?i=flutter,firebase,postgres,sqlite&theme=dark" alt="Flutter, Firebase, PostgreSQL, and SQLite" />
+      <br/><sub>Cross-platform apps, persistence, and backend services</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>05 · Developer Infrastructure</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Git, GitHub, Linux, and VS Code" />
+      <br/><sub>Version control, development environments, and collaboration</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>06 · Research & Experimentation</h3>
+      <img src="https://skillicons.dev/icons?i=jupyter,anaconda,matplotlib&theme=dark" alt="Jupyter, Anaconda, and Matplotlib" />
+      <br/><sub>Notebooks, numerical experiments, and visualization</sub>
+    </td>
   </tr>
 </table>
 
 </div>
 
-<sub>Technologies shown reflect my current toolkit and areas of hands-on learning. Proficiency varies by tool.</sub>
+### Foundations I am developing
+
+- **Computer science:** data structures and algorithms, operating systems, computer networks, databases, and software design.
+- **Mathematics for ML and quantitative research:** linear algebra, calculus, probability, statistics, optimization, and time-series analysis.
+- **Modern AI systems:** PyTorch, transformer architectures, embeddings, retrieval-augmented generation (RAG), model evaluation, and inference.
+- **Production engineering:** SQL, API design, testing, Docker, CI/CD, cloud fundamentals, observability, and deployment.
+- **Quantitative computing:** statistical research, data pipelines, backtesting methodology, and performance-aware C++.
+
+<sub>These are areas of focus, not a claim of production-level proficiency in every technology. I will add tools to the established stack as I gain meaningful hands-on experience.</sub>
 
 ## Technical interests
 
