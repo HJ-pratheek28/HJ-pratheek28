@@ -1,110 +1,94 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Smart ideas. Sharp execution. AI/ML, software, product thinking." width="100%" />
+<img src="./assets/profile-banner.svg" alt="Pratheek H J — AI, software engineering, and product development" width="100%" />
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com/demo/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=850&color=C8FF6B&center=true&vCenter=true&width=720&lines=AI%2FML+student.+Builder+by+instinct.;I+like+hard+problems+and+clean+solutions.;Curious+enough+to+explore.+Stubborn+enough+to+ship.;Currently+turning+ideas+into+working+software." alt="Animated introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1000&color=C8FF6B&center=true&vCenter=true&width=760&lines=Artificial+Intelligence+%26+Machine+Learning;Software+Engineering+%7C+Algorithms+%7C+Product+Development;Building+practical+software.+Strengthening+the+fundamentals." alt="Areas of technical focus" />
 
 <br/>
 
-<a href="https://github.com/HJ-pratheek28?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-MY%20BUILDS-C8FF6B?style=for-the-badge&labelColor=111513" alt="Explore my builds" /></a>
+<a href="https://github.com/HJ-pratheek28?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-181C1A?style=for-the-badge&logo=github&logoColor=C8FF6B" alt="Projects" /></a>
 &nbsp;
-<a href="https://github.com/HJ-pratheek28"><img src="https://img.shields.io/badge/OPEN-SOURCE%20MINDSET-222825?style=for-the-badge&logo=github&logoColor=F4F6F1" alt="Open source mindset" /></a>
+<a href="https://github.com/HJ-pratheek28/Aurora----The-Private-search-X"><img src="https://img.shields.io/badge/FEATURED_PROJECT-AURORA-181C1A?style=for-the-badge&logoColor=C8FF6B" alt="Featured project Aurora" /></a>
 
 </div>
 
 ---
 
-## The short version
+## Profile
 
-## About
+I'm **Pratheek H J**, a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at **PES University, Bengaluru**.
 
-I'm **Pratheek H J**, a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at PES University, Bengaluru.
+My technical interests span **machine learning, software engineering, algorithms, and product development**. I am focused on strengthening my foundations in computing while applying what I learn to practical projects.
 
-My work and interests focus on the intersection of **intelligent systems, software engineering, and scalable technology products**. I'm interested in understanding systems at a fundamental level—from algorithms and computational principles to the architecture and implementation of practical applications.
+I value clear problem formulation, sound technical decisions, readable implementations, and honest evaluation. My goal is to develop the depth required to engineer reliable systems and, over time, build technology products that solve meaningful problems.
 
-I approach engineering with an emphasis on technical rigor, thoughtful design, and measurable outcomes. I value solutions that are not only functional, but also reliable, maintainable, and grounded in real-world requirements.
+## Technical toolkit
 
-**Areas of focus**
-- **Artificial Intelligence & Machine Learning** — intelligent systems, model development, and applied research.
-- **Software Engineering** — algorithms, system design, and building reliable applications.
-- **Technology & Product Development** — developer infrastructure, privacy-focused computing, and AI-driven tools.
-
-My long-term objective is to develop deep technical expertise and apply it to building technology products that address meaningful problems at scale.
-
-## The toolkit
+The tools below reflect my current working toolkit—not a claim of mastery in every area.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,flutter&theme=dark" alt="Python, C++, Git, GitHub, Linux, Flutter" />
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" alt="Python and C++" />
+
+**Development & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" alt="Git, GitHub, and Linux" />
+
+**Application Development**
+
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" />
 
 </div>
 
-I care more about understanding a tool deeply than listing fifty tools I barely know.
+### Areas of technical focus
 
-## Things I've put into motion
+- **AI & Machine Learning** — understanding core concepts and exploring applied intelligent systems.
+- **Computer Science** — algorithms, problem-solving, and fundamental computing concepts.
+- **Software Development** — writing maintainable code and building practical applications.
+- **Technology Products** — exploring developer tools, privacy-conscious software, and AI-powered applications.
 
-<details open>
-<summary><strong>01 / Aurora — Privacy-first search exploration</strong></summary>
+## Selected project
 
-A project exploring a more privacy-conscious search experience. It’s early-stage, and I’m treating it as a chance to think clearly about the problem, architecture, and what a genuinely useful first version should do.
+### Aurora — Privacy-first search exploration
 
-**[Explore Aurora →](https://github.com/HJ-pratheek28/Aurora----The-Private-search-X)**
-</details>
+An early-stage project exploring the idea of a more privacy-conscious search experience. The current focus is defining the problem, evaluating the direction, and establishing a practical path toward a useful implementation.
 
-<details>
-<summary><strong>02 / The next build</strong></summary>
+[**View repository →**](https://github.com/HJ-pratheek28/Aurora----The-Private-search-X)
 
-I’m working toward projects that go beyond a polished demo: a clear user problem, a sensible technical design, honest evaluation, and documentation that lets someone else run the thing.
+*Project status is described transparently in the repository; planned work is not presented as completed functionality.*
 
-This section will earn its next entry when there’s real work to show.
-</details>
+## Engineering principles
 
-## How I like to work
-
-| Principle | What it means |
+| Principle | Application |
 |:--|:--|
-| **Substance over theatre** | Working software beats impressive-sounding claims. |
-| **Fundamentals first** | Understand the system before reaching for another framework. |
-| **Ship, then sharpen** | Get a useful version working; improve it with evidence. |
-| **Stay curious** | The best ideas often come from connecting different fields. |
+| **Technical depth** | Understand fundamentals rather than rely on abstractions alone. |
+| **Clarity** | Prefer readable code, explicit decisions, and useful documentation. |
+| **Evidence** | Validate outcomes with tests, experiments, and reproducible results where applicable. |
+| **Iteration** | Build a focused first version, learn from it, and improve deliberately. |
 
-## Consistency, visualized
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/HJ-pratheek28/HJ-pratheek28/output/github-snake-dark.svg" alt="Animated GitHub contribution graph" width="100%" />
-
-</div>
-
-*The animation is published automatically by GitHub Actions after the workflow runs successfully.*
-
----
-
-## The signal, not the noise
+## GitHub activity
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/HJ-pratheek28/HJ-pratheek28/output/github-snake-dark.svg" alt="GitHub contribution graph animation" width="100%" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=HJ-pratheek28&show_icons=true&hide_border=true&bg_color=0A0D0C&title_color=C8FF6B&text_color=E6EAE5&icon_color=C8FF6B&rank_icon=github" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJ-pratheek28&layout=compact&hide_border=true&bg_color=0A0D0C&title_color=C8FF6B&text_color=E6EAE5" height="165" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJ-pratheek28&layout=compact&hide_border=true&bg_color=0A0D0C&title_color=C8FF6B&text_color=E6EAE5" height="165" alt="Most-used languages on GitHub" />
 
 </div>
 
 <div align="center">
 
-### Good taste. Strong fundamentals. Useful things.
+### Engineering with purpose. Building with discipline.
 
-*Build quietly. Let the work introduce you.*
-
-<br/>
-
-[**See what I'm building →**](https://github.com/HJ-pratheek28?tab=repositories)
+[**Explore repositories →**](https://github.com/HJ-pratheek28?tab=repositories)
 
 </div>
 
 ---
 
-<sub>Currently learning in public. Always interested in thoughtful builders, challenging problems, and ideas worth making real.</sub>
+<sub>Focused on continuous technical growth, practical implementation, and building software that is useful, reliable, and thoughtfully engineered.</sub>
