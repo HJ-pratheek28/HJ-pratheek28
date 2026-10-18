@@ -1,20 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
   <defs>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#242A2D" stroke-width="1"/></pattern>
-    <linearGradient id="glow" x1="170" y1="40" x2="1020" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#C8FF6B" stop-opacity=".16"/><stop offset="1" stop-color="#C8FF6B" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#242B29" stroke-width="1"/></pattern>
+    <linearGradient id="wash" x1="140" y1="30" x2="1100" y2="310" gradientUnits="userSpaceOnUse"><stop stop-color="#C8FF6B" stop-opacity=".17"/><stop offset="1" stop-color="#C8FF6B" stop-opacity="0"/></linearGradient>
+    <linearGradient id="line" x1="70" y1="0" x2="1080" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#C8FF6B"/><stop offset="1" stop-color="#C8FF6B" stop-opacity="0"/></linearGradient>
   </defs>
-  <rect width="1200" height="320" rx="18" fill="#0B0D0E"/>
-  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
-  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
-  <circle cx="1030" cy="70" r="170" stroke="#C8FF6B" stroke-opacity=".13"/>
-  <circle cx="1030" cy="70" r="125" stroke="#C8FF6B" stroke-opacity=".10"/>
-  <circle cx="1030" cy="70" r="80" stroke="#C8FF6B" stroke-opacity=".08"/>
-  <path d="M0 258H1200" stroke="#C8FF6B" stroke-opacity=".18"/>
-  <rect x="66" y="57" width="8" height="8" rx="2" fill="#C8FF6B"/>
-  <text x="90" y="66" fill="#C8FF6B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="3">INDEPENDENT BUILDER / AI + SOFTWARE</text>
-  <text x="64" y="151" fill="#F4F5F2" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="700" letter-spacing="-2">BUILD. SHIP. EVOLVE.</text>
-  <text x="68" y="193" fill="#A8B0AE" font-family="Arial, Helvetica, sans-serif" font-size="20">Turning ambitious ideas into useful systems.</text>
-  <text x="68" y="285" fill="#6F7976" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2">AI/ML  ·  SOFTWARE ENGINEERING  ·  FOUNDER MINDSET</text>
-  <path d="M1070 230h64M1102 198v64" stroke="#C8FF6B" stroke-opacity=".65" stroke-width="2"/>
-  <circle cx="1102" cy="230" r="9" fill="#C8FF6B"/>
+  <rect width="1200" height="340" rx="18" fill="#0A0D0C"/>
+  <rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="340" rx="18" fill="url(#wash)"/>
+  <circle cx="1030" cy="90" r="190" stroke="#C8FF6B" stroke-opacity=".13"/>
+  <circle cx="1030" cy="90" r="140" stroke="#C8FF6B" stroke-opacity=".12"/>
+  <circle cx="1030" cy="90" r="90" stroke="#C8FF6B" stroke-opacity=".10"/>
+  <path d="M64 246H1136" stroke="url(#line)" stroke-width="1.5"/>
+  <rect x="68" y="51" width="8" height="8" rx="2" fill="#C8FF6B"/>
+  <text x="91" y="60" fill="#C8FF6B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="3">AI / ML  ·  SOFTWARE  ·  PRODUCT THINKING</text>
+  <text x="64" y="143" fill="#F4F6F1" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700" letter-spacing="-2">SMART IDEAS.</text>
+  <text x="64" y="202" fill="#F4F6F1" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700" letter-spacing="-2">SHARP EXECUTION.</text>
+  <text x="68" y="230" fill="#A8B2AC" font-family="Arial, Helvetica, sans-serif" font-size="17">Curiosity in the brain. Builder energy in the terminal.</text>
+  <text x="68" y="292" fill="#C8FF6B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2">LESS TALK. BETTER BUILDS. GOOD TASTE.</text>
+  <path d="M1025 236h90M1070 191v90" stroke="#C8FF6B" stroke-opacity=".65" stroke-width="2"/>
+  <circle cx="1070" cy="236" r="9" fill="#C8FF6B"/>
+  <circle cx="1070" cy="236" r="18" stroke="#C8FF6B" stroke-opacity=".35"/>
 </svg>
