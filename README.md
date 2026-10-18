@@ -20,16 +20,20 @@
 
 ## The short version
 
-I'm **Pratheek H J** — a CSE student specialising in AI & ML at PES University, Bengaluru.
+## About
 
-I’m drawn to the overlap between **intelligent systems, thoughtful engineering, and products people actually want to use.** I like understanding how things work, pulling apart difficult problems, and turning ideas into something real.
+I'm **Pratheek H J**, a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at PES University, Bengaluru.
 
-Not here to collect buzzwords. Here to build the skill to build things that matter.
+My work and interests focus on the intersection of **intelligent systems, software engineering, and scalable technology products**. I'm interested in understanding systems at a fundamental level—from algorithms and computational principles to the architecture and implementation of practical applications.
 
-- **Exploring:** AI/ML, software engineering, algorithms, and app development
-- **Building:** practical projects and early experiments
-- **Thinking about:** developer tools, privacy-first products, and entrepreneurship
-- **Long game:** become an excellent engineer, then use that ability to build ambitious products
+I approach engineering with an emphasis on technical rigor, thoughtful design, and measurable outcomes. I value solutions that are not only functional, but also reliable, maintainable, and grounded in real-world requirements.
+
+**Areas of focus**
+- **Artificial Intelligence & Machine Learning** — intelligent systems, model development, and applied research.
+- **Software Engineering** — algorithms, system design, and building reliable applications.
+- **Technology & Product Development** — developer infrastructure, privacy-focused computing, and AI-driven tools.
+
+My long-term objective is to develop deep technical expertise and apply it to building technology products that address meaningful problems at scale.
 
 ## The toolkit
 
